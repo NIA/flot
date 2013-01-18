@@ -42,7 +42,7 @@ Licensed under the MIT license.
         var series = [],
             options = {
                 // the color theme used for graphs
-                colors: ["#edc240", "#afd8f8", "#cb4b4b", "#4da74d", "#9440ed"],
+                colors: ["#3594de", "#edc240", "#cb4b4b", "#4da74d", "#9440ed", "#f2962c"],
                 legend: {
                     show: true,
                     noColumns: 1, // number of colums in legend table
